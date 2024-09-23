@@ -1,0 +1,6 @@
+Run Date and Time: 23 Sep 2024 14:06:44
+Training Time: 100.02 seconds
+Evaluation Time: 1.48 seconds
+Test Loss: 1.5129
+Test Accuracy: 0.4524
+
